@@ -1,6 +1,6 @@
 ## IMClientProjects
 
-即时通信客户端
+![即时通信客户端思维导图](https://i.imgur.com/jOQSnru.png)
 
 ## License
 
