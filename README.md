@@ -4,9 +4,9 @@
 
 ![即时通信客户端思维导图](https://i.imgur.com/jOQSnru.png)
 
-[**Bmob云数据库**]()
+[**Bmob云数据库（Leancloud）**](https://leancloud.cn/)
 
-[**环信即时通信**]()
+[**环信即时通信**](http://www.easemob.com/product/im)
 
 
 ## 即时通信需求文档
